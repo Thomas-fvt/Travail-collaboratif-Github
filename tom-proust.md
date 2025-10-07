@@ -1,0 +1,1 @@
+Git est important mais pas intuitif
